@@ -6,7 +6,7 @@ colorama==0.4.3
 cycler==0.10.0
 distlib==0.3.0
 filelock==3.0.12
--e git+https://github.com/cwcraw/personal-page@master#egg=flaskr
+-e git+https://github.com/cwcraw/personal-page.git@master#egg=flaskr
 isort==4.3.21
 itsdangerous==1.1.0
 Jinja2==2.11.2
