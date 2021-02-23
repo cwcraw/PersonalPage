@@ -7,6 +7,7 @@ cycler==0.10.0
 distlib==0.3.0
 filelock==3.0.12
 Flask==1.1.2
+-e git+https://github.com/cwcraw/flask-tutorial.git@73feb7fd6527fb96191cb35f559f76108345ba59#egg=flaskr
 isort==4.3.21
 itsdangerous==1.1.0
 Jinja2==2.11.2
